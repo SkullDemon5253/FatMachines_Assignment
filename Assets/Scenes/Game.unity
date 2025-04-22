@@ -1831,7 +1831,7 @@ GameObject:
   - component: {fileID: 1594324024}
   - component: {fileID: 1594324023}
   m_Layer: 5
-  m_Name: Text (Legacy)
+  m_Name: WinText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
